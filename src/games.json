@@ -1,0 +1,66 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "description": "Join the numbers and get to the 2048 tile!",
+    "url": "https://play2048.co/",
+    "thumbnail": "https://picsum.photos/seed/2048/400/300",
+    "color": "bg-orange-400"
+  },
+  {
+    "id": "flappy-bird",
+    "title": "Flappy Bird",
+    "description": "Fly through the pipes without crashing.",
+    "url": "https://wayou.github.io/FlappyBird/",
+    "thumbnail": "https://picsum.photos/seed/bird/400/300",
+    "color": "bg-yellow-400"
+  },
+  {
+    "id": "tetris",
+    "title": "Tetris",
+    "description": "The classic block-stacking puzzle game.",
+    "url": "https://chvin.github.io/react-tetris/",
+    "thumbnail": "https://picsum.photos/seed/tetris/400/300",
+    "color": "bg-blue-500"
+  },
+  {
+    "id": "snake",
+    "title": "Snake",
+    "description": "Eat the apples and grow as long as possible.",
+    "url": "https://patorjk.com/games/snake/",
+    "thumbnail": "https://picsum.photos/seed/snake/400/300",
+    "color": "bg-green-500"
+  },
+  {
+    "id": "pacman",
+    "title": "Pac-Man",
+    "description": "Navigate the maze and eat all the dots.",
+    "url": "https://macek.github.io/google_pacman/",
+    "thumbnail": "https://picsum.photos/seed/pacman/400/300",
+    "color": "bg-yellow-300"
+  },
+  {
+    "id": "hextris",
+    "title": "Hextris",
+    "description": "Fast-paced hexagonal puzzle game.",
+    "url": "https://hextris.io/",
+    "thumbnail": "https://picsum.photos/seed/hex/400/300",
+    "color": "bg-pink-500"
+  },
+  {
+    "id": "crossy-road",
+    "title": "Crossy Road (Clone)",
+    "description": "Why did the chicken cross the road?",
+    "url": "https://crossyroad.io/",
+    "thumbnail": "https://picsum.photos/seed/chicken/400/300",
+    "color": "bg-emerald-400"
+  },
+  {
+    "id": "paper-io",
+    "title": "Paper.io 2",
+    "description": "Capture as much territory as possible.",
+    "url": "https://paper-io.com/",
+    "thumbnail": "https://picsum.photos/seed/paper/400/300",
+    "color": "bg-red-500"
+  }
+]
